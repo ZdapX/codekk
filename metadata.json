@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Source Code Hub",
+  "description": "A modern platform for sharing and downloading project source codes with real-time chat and admin management features.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
